@@ -1,0 +1,3 @@
+Subtitle Downloader v. 0.34.3 2013-01-27
+http://subs-downloader.googlecode.com/files/enigma2-plugin-extensions-subsdownloader2_3.999%2Bgit4617%2Bcae98ec-r0_all.ipk
+
