@@ -1,7 +1,7 @@
 # subs-downloader
 Subtitle Downloader v. 0.34.3 2013-01-27
 
-Enigma2 plugin which downloads subtitle to Your movie written in Python.
+Enigma2 plugin which downloads subtitle to Your movie. Written in Python 2.7.
 
 Homepage:  http://code.google.com/p/subs-downloader/ - Due to Google Code services termination I have moved my project to github.
 This repo contains last plugin version which is also source code.
